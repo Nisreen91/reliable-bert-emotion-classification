@@ -4,6 +4,11 @@ This repository contains the implementation for the study:
 
 **Reliability-Aware BERT-Based Emotion Classification via Probability Calibration and Selective Prediction**
 
+📄 **Preprint available on SSRN**
+
+🔗 **DOI:** https://doi.org/10.2139/ssrn.7225999  
+🔗 **SSRN:** https://ssrn.com/abstract=7225999
+
 ## Overview
 
 This study investigates reliability-aware emotion classification using a fine-tuned BERT model. Beyond conventional predictive performance, the framework evaluates probability calibration, predictive uncertainty, and selective prediction.
@@ -96,9 +101,12 @@ The repository is provided to support reproducibility of the experiments and rel
 
 ## Citation
 
-If you use this code in your research, please cite the associated paper.
+If you use this code or build upon this work, please cite:
 
-Citation information will be added after publication.
+**Albzour, Nisreen.**  
+*Reliability-Aware BERT-Based Emotion Classification via Probability Calibration and Selective Prediction.*  
+SSRN, 2026.  
+https://doi.org/10.2139/ssrn.7225999
 
 ## License
 
